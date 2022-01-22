@@ -1,1 +1,5 @@
 # collaboration
+
+```
+git add .
+```
